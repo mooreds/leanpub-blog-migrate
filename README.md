@@ -20,3 +20,6 @@ perl, wget, python, leanpub account, ability to modify shell scripts
 
 This workflow requires you to understand the scripts.  
 
+### Todo
+
+* Pull images from remote servers into local directory.  Probably in the cleanup-html.pl script.
