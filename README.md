@@ -8,7 +8,7 @@ perl, wget, python, leanpub account, ability to modify shell scripts
 
 ### Workflow
 
-* Find a list of links to download.  Save this to list.hmtl
+* Find a list of links to download.  Save this to list.html
 * Download them using download.sh
 * Modify the regular expressions in cleanup-html.pl to delete any non content html, and run that script.
 * Convert the output to markdown using convert-to-markdown.sh
